@@ -19,8 +19,13 @@ $ ./reader
 temp=32.32 humidity=73
 ```
 
+## Go for pi
+- `wget https://dl.google.com/go/go1.13.7.linux-armv6l.tar.gz -O go.tar.gz`
+- `sudo tar -C /usr/local -xzf go.tar.gz`
+
 ## Useful Resources
 
 - http://files.pine64.org/doc/Pine%20A64%20Schematic/Pine%20A64%20Pin%20Assignment%20160119.pdf
 - http://wiki.pine64.org/index.php/POT
 - https://dave.cheney.net/2014/08/03/tinyterm-a-silly-terminal-emulator-written-in-go
+ 
